@@ -7,4 +7,6 @@
     --roxo-vivo: #9353FF;
     --fonte-principal: 'Inter', sans-serif;
 }
-
+ .posicao{
+    top: 40% !important;
+}
